@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C61 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change Component Footprint: Designator=C62 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change Component Footprint: Designator=C66 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change Component Footprint: Designator=C73 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change Component Footprint: Designator=C75 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change Component Footprint: Designator=C76 Old Footprint=CAPC1608X90N New Footprint=C0402
+Change Component Footprint: Designator=R134 Old Footprint=RESC1608X55N New Footprint=0402
+Change Component Footprint: Designator=R141 Old Footprint=RESC1608X55N New Footprint=0402
+Change Component Footprint: Designator=R142 Old Footprint=RESC1608X55N New Footprint=0402
+Change Component Footprint: Designator=R143 Old Footprint=RESC1608X55N New Footprint=0402
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi

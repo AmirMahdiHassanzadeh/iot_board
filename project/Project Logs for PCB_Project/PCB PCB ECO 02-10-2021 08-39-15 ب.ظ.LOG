@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=FS_USB- Pin=R95-2
+Removed Pin From Net: NetName=FS_USB+ Pin=R96-2
+Removed Pin From Net: NetName=FS_USB- Pin=U1-70
+Removed Pin From Net: NetName=FS_USB+ Pin=U1-71
+Added Pin To Net: NetName=FS_USB_N Pin=R95-2
+Added Pin To Net: NetName=FS_USB_N Pin=U1-70
+Added Net: Name=FS_USB_N
+Added Pin To Net: NetName=FS_USB_P Pin=R96-2
+Added Pin To Net: NetName=FS_USB_P Pin=U1-71
+Added Net: Name=FS_USB_P
+Added Differential Pair: Name=FS_USB
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi

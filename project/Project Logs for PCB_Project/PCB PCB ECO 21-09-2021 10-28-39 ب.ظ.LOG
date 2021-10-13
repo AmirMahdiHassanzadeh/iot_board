@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD22_2 Pin=X5-1
+Removed Pin From Net: NetName=GND Pin=X5-2
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Pin To Net: NetName=NetD22_2 Pin=X5-2
+Added Room: Name=Power

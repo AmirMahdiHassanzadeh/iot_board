@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetK2_2 Pin=X4-1
+Removed Pin From Net: NetName=NetK2_3 Pin=X4-3
+Added Pin To Net: NetName=NetK2_3 Pin=X4-1
+Added Pin To Net: NetName=NetK2_2 Pin=X4-3
+Added Member To Class: ClassName=MCU2 Member=Component X4 Phoenix MKDSN 03

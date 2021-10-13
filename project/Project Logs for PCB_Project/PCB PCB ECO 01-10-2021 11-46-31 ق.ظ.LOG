@@ -1,0 +1,31 @@
+Added Component: Designator=P1(PCBComponent_1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=LCD_RES Pin=P1-2
+Added Pin To Net: NetName=LCD_CLK Pin=P1-3
+Added Pin To Net: NetName=LCD_DC Pin=P1-4
+Added Pin To Net: NetName=LCD_CS Pin=P1-5
+Added Pin To Net: NetName=LCD_MOSI Pin=P1-6
+Added Pin To Net: NetName=LCD_MISO Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=3V3 Pin=P1-9
+Added Pin To Net: NetName=3V3 Pin=P1-10
+Added Pin To Net: NetName=LEDK1 Pin=P1-11
+Added Pin To Net: NetName=LEDK2 Pin=P1-12
+Added Pin To Net: NetName=LEDK3 Pin=P1-13
+Added Pin To Net: NetName=LEDK4 Pin=P1-14
+Added Pin To Net: NetName=XN Pin=P1-15
+Added Pin To Net: NetName=YN Pin=P1-16
+Added Pin To Net: NetName=XP Pin=P1-17
+Added Pin To Net: NetName=YP Pin=P1-18
+Added Member To Class: ClassName=MCU3 Member=Component P1 Header 18
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi

@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=MC60.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=MCU1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=MCU2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=MCU3.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=MCU4.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=Power.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=W5500.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=Wifi.SchDoc|SheetNumber=3

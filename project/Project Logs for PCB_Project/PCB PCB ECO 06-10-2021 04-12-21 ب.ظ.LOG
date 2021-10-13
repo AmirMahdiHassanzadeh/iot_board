@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=NetD6_1 Pin=D6-1
+Removed Pin From Net: NetName=NetD7_1 Pin=D7-1
+Removed Pin From Net: NetName=NetD10_1 Pin=D10-1
+Removed Pin From Net: NetName=NetD11_1 Pin=D11-1
+Change Component Footprint: Designator=D6 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=LED THD 5mm (Blue)
+Change Component Footprint: Designator=D7 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=LED THD 5mm (Blue)
+Change Component Footprint: Designator=D10 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=LED THD 5mm (Blue)
+Change Component Footprint: Designator=D11 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=LED THD 5mm (Blue)
+Change Component Comment : Designator=D6 Old Comment=LTST-C191TBKT New Comment=LED THD 5mm
+Change Component Comment : Designator=D7 Old Comment=LTST-C191TBKT New Comment=LED THD 5mm
+Change Component Comment : Designator=D10 Old Comment=LTST-C191TBKT New Comment=LED THD 5mm
+Change Component Comment : Designator=D11 Old Comment=LTST-C191TBKT New Comment=LED THD 5mm
+Change Managed Component Library Link : Designator=D6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=67FF2ADF-9763-4FBF-9C51-879727C8E12E New ItemGUID= Old RevisionGUID=402666A6-DBBB-4A3E-9E1F-17C7D990BCF7 New RevisionGUID=
+Change Managed Component Library Link : Designator=D7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=67FF2ADF-9763-4FBF-9C51-879727C8E12E New ItemGUID= Old RevisionGUID=402666A6-DBBB-4A3E-9E1F-17C7D990BCF7 New RevisionGUID=
+Change Managed Component Library Link : Designator=D10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=67FF2ADF-9763-4FBF-9C51-879727C8E12E New ItemGUID= Old RevisionGUID=402666A6-DBBB-4A3E-9E1F-17C7D990BCF7 New RevisionGUID=
+Change Managed Component Library Link : Designator=D11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=67FF2ADF-9763-4FBF-9C51-879727C8E12E New ItemGUID= Old RevisionGUID=402666A6-DBBB-4A3E-9E1F-17C7D990BCF7 New RevisionGUID=
+Change component parameters: Designator = "D6" ("D6"); Footprint = "FP-LTST-C191TBKT-MFG"; UniqueID = "\HLOBYTWK" ("\HLOBYTWK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "FP-LTST-C191TBKT-MFG"; UniqueID = "\HKIUPVOV" ("\HKIUPVOV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "FP-LTST-C191TBKT-MFG"; UniqueID = "\ZKGAAWCH" ("\ZKGAAWCH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11" ("D11"); Footprint = "FP-LTST-C191TBKT-MFG"; UniqueID = "\TJRQGRYW" ("\TJRQGRYW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD6_1 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD11_2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R35-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R36-1
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R55-1
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R56-1
+Added Net: Name=NetD11_1
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi

@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=FS_USB_N Pin=R96-1
+Added Pin To Net: NetName=FS_USB_P Pin=R97-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi

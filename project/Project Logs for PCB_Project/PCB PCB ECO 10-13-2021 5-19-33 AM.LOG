@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=R39 Old Footprint=Res-(1/2)-Stand New Footprint=R1W_AX06
+Change Component Footprint: Designator=R40 Old Footprint=Res-(1/2)-Stand New Footprint=R1W_AX06
+Change Component Footprint: Designator=R59 Old Footprint=Res-(1/2)-Stand New Footprint=R1W_AX06
+Change Component Footprint: Designator=R60 Old Footprint=Res-(1/2)-Stand New Footprint=R1W_AX06
+Added Member To Class: ClassName=MCU2 Member=Component K4 Relay
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi

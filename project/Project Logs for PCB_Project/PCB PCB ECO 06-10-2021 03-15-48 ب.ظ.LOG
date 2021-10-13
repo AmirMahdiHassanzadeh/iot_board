@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=3V3 Pin=R84-1
+Removed Pin From Net: NetName=3V3 Pin=R85-1
+Removed Pin From Net: NetName=SDIO_CLK Pin=R85-2
+Removed Pin From Net: NetName=3V3 Pin=R86-1
+Removed Pin From Net: NetName=SDIO_D3 Pin=R86-2
+Removed Pin From Net: NetName=3V3 Pin=R88-1
+Removed Pin From Net: NetName=SDIO_D2 Pin=R88-2
+Removed Pin From Net: NetName=3V3 Pin=R89-1
+Removed Pin From Net: NetName=SDIO_D0 Pin=R89-2
+Removed Pin From Net: NetName=3V3 Pin=R92-1
+Removed Pin From Net: NetName=SDIO_D1 Pin=R92-2
+Removed Pin From Net: NetName=3V3 Pin=R95-1
+Removed Pin From Net: NetName=SDCARD_STATE Pin=R95-2
+Removed Member From Class: ClassName=MCU3 Member=R84
+Removed Member From Class: ClassName=MCU3 Member=R85
+Removed Member From Class: ClassName=MCU3 Member=R86
+Removed Member From Class: ClassName=MCU3 Member=R88
+Removed Member From Class: ClassName=MCU3 Member=R89
+Removed Member From Class: ClassName=MCU3 Member=R92
+Removed Member From Class: ClassName=MCU3 Member=R95
+Added Component: Designator=R?(RP0603X4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RP0603X4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDIO_CLK Pin=J10-3
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-3
+Added Pin To Net: NetName=3V3 Pin=R?-3
+Added Pin To Net: NetName=3V3 Pin=R?-4
+Added Pin To Net: NetName=SDIO_D2 Pin=R?-5
+Added Pin To Net: NetName=SDIO_CLK Pin=R?-6
+Added Pin To Net: NetName=SDIO_D0 Pin=R?-6
+Added Pin To Net: NetName=SDIO_CLK Pin=R?-7
+Added Pin To Net: NetName=SDIO_D1 Pin=R?-7
+Added Pin To Net: NetName=SDCARD_STATE Pin=R?-8
+Added Pin To Net: NetName=SDIO_D3 Pin=R?-8
+Added Pin To Net: NetName=SDIO_CLK Pin=U1-83
+Added Member To Class: ClassName=MCU3 Member=Component R? Resistor Array SMD
+Added Member To Class: ClassName=MCU3 Member=Component R? Resistor Array SMD
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SIM1_RST Pin=R139-1
+Removed Pin From Net: NetName=SIM1_CLK Pin=R140-1
+Removed Pin From Net: NetName=SIM1_DATA Pin=R141-1
+Added Pin To Net: NetName=SIM2_RST Pin=R139-1
+Added Pin To Net: NetName=SIM2_CLK Pin=R140-1
+Added Pin To Net: NetName=SIM2_DATA Pin=R141-1
+Added Member To Class: ClassName=MC60 Member=Component C59 approved sub OK
+Added Member To Class: ClassName=MC60 Member=Component C66 approved sub OK
+Added Member To Class: ClassName=MC60 Member=Component C71 Capacitor C SMD 0603
+Added Member To Class: ClassName=MC60 Member=Component C73 approved sub OK
+Added Member To Class: ClassName=MC60 Member=Component C74 Capacitor C SMD 0603
+Added Member To Class: ClassName=MC60 Member=Component J15 SOCKET_SIM

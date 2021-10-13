@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=SDIO_CLK Pin=J10-5
+Removed Pin From Net: NetName=SDIO_D2 Pin=R88-5
+Removed Pin From Net: NetName=SDIO_D0 Pin=R88-6
+Removed Pin From Net: NetName=SDIO_D1 Pin=R88-7
+Removed Pin From Net: NetName=SDCARD_STATE Pin=R88-8
+Removed Pin From Net: NetName=SDIO_CLK Pin=U1-80
+Removed Member From Class: ClassName=MC60 Member=R104
+Removed Member From Class: ClassName=MC60 Member=R106
+Removed Member From Class: ClassName=Power Member=R132
+Removed Member From Class: ClassName=Power Member=R134
+Removed Member From Class: ClassName=Power Member=R136
+Removed Member From Class: ClassName=MCU4 Member=R140
+Removed Member From Class: ClassName=MCU4 Member=R142
+Added Pin To Net: NetName=SDIO_CLK Pin=J10-2
+Added Pin To Net: NetName=SDIO_D2 Pin=R84-8
+Added Pin To Net: NetName=SDCARD_STATE Pin=R88-5
+Added Pin To Net: NetName=SDIO_D1 Pin=R88-6
+Added Pin To Net: NetName=SDIO_D0 Pin=R88-7
+Added Pin To Net: NetName=SDIO_CLK Pin=U1-79
+Change Net Name : Old Net Name=SDIO_CLK New Net Name=SDIO_CMD
+Added Pin To Net: NetName=SDIO_CLK Pin=J10-5
+Added Pin To Net: NetName=SDIO_CLK Pin=R88-8
+Added Pin To Net: NetName=SDIO_CLK Pin=U1-80
+Added Net: Name=SDIO_CLK
+Added Member To Class: ClassName=MCU2 Member=Component K1 Relay
+Added Member To Class: ClassName=MCU2 Member=Component K3 Relay
+Added Member To Class: ClassName=MCU3 Member=Component R84 Resistor Array SMD
+Added Member To Class: ClassName=MCU3 Member=Component R85 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R86 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R87 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R88 Resistor Array SMD
+Added Member To Class: ClassName=MCU3 Member=Component R89 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R92 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R94 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R95 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R96 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R103 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R105 Thick Film
+Added Member To Class: ClassName=MCU3 Member=Component R107 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R109 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R111 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R113 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R115 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R117 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R119 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R121 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R123 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R125 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R127 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R129 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R131 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R133 Thick Film
+Added Member To Class: ClassName=MC60 Member=Component R135 Thick Film
+Added Member To Class: ClassName=Power Member=Component R137 Thick Film
+Added Member To Class: ClassName=Power Member=Component R139 Thick Film
+Added Member To Class: ClassName=Power Member=Component R141 Thick Film
+Added Member To Class: ClassName=Power Member=Component R143 Thick Film
+Added Member To Class: ClassName=MCU4 Member=Component R145 Thick Film
+Added Member To Class: ClassName=MCU4 Member=Component R147 Thick Film
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi

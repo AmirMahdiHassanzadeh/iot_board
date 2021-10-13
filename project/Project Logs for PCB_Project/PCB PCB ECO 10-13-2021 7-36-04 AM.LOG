@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C21 Old Footprint=C_CER_D7B New Footprint=C_PLY_13X5
+Change Component Footprint: Designator=C22 Old Footprint=C_CER_D7B New Footprint=C_PLY_13X5
+Change Component Footprint: Designator=C23 Old Footprint=C_CER_D7B New Footprint=C_PLY_13X5
+Change Component Footprint: Designator=C24 Old Footprint=C_CER_D7B New Footprint=C_PLY_13X5
+Added Room: Name=MC60
+Added Room: Name=MCU1
+Added Room: Name=MCU2
+Added Room: Name=MCU3
+Added Room: Name=MCU4
+Added Room: Name=Power
+Added Room: Name=W5500
+Added Room: Name=Wifi
