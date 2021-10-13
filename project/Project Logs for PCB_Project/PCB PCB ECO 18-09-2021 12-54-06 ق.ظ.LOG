@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetD14_1 Pin=Q20-1
-Removed Pin From Net: NetName=MCU_GND Pin=Q20-3
-Change Component Comment : Designator=Q21 Old Comment=NPN New Comment=S0805
-Added Pin To Net: NetName=MCU_GND Pin=Q20-2
-Added Pin To Net: NetName=NetD14_1 Pin=Q20-3
-Added Pin To Net: NetName=NetQ20_1 Pin=Q20-1
-Added Pin To Net: NetName=NetQ20_1 Pin=R93-2
-Added Net: Name=NetQ20_1

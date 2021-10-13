@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetK2_2 Pin=X2-1
-Removed Pin From Net: NetName=NetK2_3 Pin=X2-3
-Change Component Designator: OldDesignator=X1 NewDesignator=X2
-Change Component Designator: OldDesignator=X2 NewDesignator=X1
-Added Pin To Net: NetName=NetK2_3 Pin=X1-1
-Added Pin To Net: NetName=NetK2_2 Pin=X1-3
-Added Member To Class: ClassName=MCU2 Member=Component X4 Phoenix MKDSN 03
-Added Room: Name=MCU2
