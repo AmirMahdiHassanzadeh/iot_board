@@ -1,5 +1,6 @@
 Record=TopLevelDocument|FileName=MC60.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=MCU1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=MCU2.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=MCU3.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=MCU4.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=MC60.SchDoc|FileName=Power.SchDoc|SheetNumber=6
