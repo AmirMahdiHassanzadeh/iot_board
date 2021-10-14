@@ -1452,7 +1452,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document84]
-DocumentPath=PCB.PcbDoc
+DocumentPath=iot_board_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
