@@ -1,7 +1,7 @@
 eng.Amirmahdi iot_board (Version 1) Designed by AmirMahdiHasanzzadehAmoli
-project/History
+project/History*
 project/output_PDFs
-project/Project Logs for PCB_Project
+project/Project Logs for PCB_Project*
 project/project Output*
 project/_previews
 project/debug.log
