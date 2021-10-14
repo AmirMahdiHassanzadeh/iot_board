@@ -1452,7 +1452,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document84]
-DocumentPath=iot_board.PcbDoc
+DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1466,7 +1466,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RMKTTROF
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
