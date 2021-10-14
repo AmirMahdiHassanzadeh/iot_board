@@ -619,23 +619,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document35]
-DocumentPath=PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CJLUVPWB
-
-[Document36]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\CONN_RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -652,7 +635,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\conn_rf.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -669,7 +652,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -686,7 +669,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCKWZWKQ
 
-[Document39]
+[Document38]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\industrial_GPIO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -703,7 +686,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\CONN_JACKAV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -720,7 +703,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\conn_jackAV.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -737,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\conn_power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -754,7 +737,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\CONN_PWR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -771,7 +754,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=..\..\..\lib\MIC29302WU\MIC29302WU.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -788,7 +771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=..\..\..\lib\SGM2019\SGM2019.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -805,7 +788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=..\..\..\lib\AMS1117\AMS1117.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -822,7 +805,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=MCU4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -839,7 +822,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJQZSQYL
 
-[Document48]
+[Document47]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\usbic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -856,7 +839,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\conn_powerJack.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -873,7 +856,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\conn_usb.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -890,7 +873,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\CONN_USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -907,7 +890,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\MECH_HEXNUT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -924,7 +907,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\MECH_MOUNTING_HOLE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -941,7 +924,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\MECH_SCREW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -958,7 +941,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document54]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\MECH_SPACER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -975,7 +958,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=..\..\..\..\..\Altium\Altium Tutorials\التیوم حسین خادمی\GolPack\Header.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -992,7 +975,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\passive_smd.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1009,7 +992,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumSCHLIB\res_smd_passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1026,7 +1009,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=..\..\..\..\..\Altium\Altium Tutorials\التیوم حسین خادمی\GolPack\Resistor.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1043,7 +1026,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=..\..\..\..\..\Altium\Altium Tutorials\التیوم حسین خادمی\GolPack\Socket.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1060,7 +1043,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document60]
 DocumentPath=..\..\..\..\..\Altium\Altium Tutorials\التیوم حسین خادمی\GolPack\LED.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1077,7 +1060,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=..\..\..\lib\footprint\PBL - THD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1094,7 +1077,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=..\..\..\lib\footprint\PBL - Batteries.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1111,7 +1094,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document63]
 DocumentPath=..\..\..\lib\footprint\PBL - Capacitors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1128,7 +1111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document64]
 DocumentPath=..\..\..\lib\footprint\PBL - Connectors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1145,7 +1128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document65]
 DocumentPath=..\..\..\lib\footprint\PBL - Diodes.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1162,7 +1145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document66]
 DocumentPath=..\..\..\lib\footprint\PBL - Electromechanical.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1179,7 +1162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document67]
 DocumentPath=..\..\..\lib\footprint\PBL - Fuses and Protection.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1196,7 +1179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document68]
 DocumentPath=..\..\..\lib\footprint\PBL - Inductors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1213,7 +1196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document69]
 DocumentPath=..\..\..\lib\footprint\PBL - Integrated Circuits.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1230,7 +1213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document70]
 DocumentPath=..\..\..\lib\footprint\PBL - Light Sources.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1247,7 +1230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document71]
 DocumentPath=..\..\..\lib\footprint\PBL - Mechanical.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1264,7 +1247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document72]
 DocumentPath=..\..\..\lib\footprint\PBL - Optical Components.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1281,7 +1264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document73]
 DocumentPath=..\..\..\lib\footprint\PBL - Pads and Jumpers.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1298,7 +1281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document74]
 DocumentPath=..\..\..\lib\footprint\PBL - Power Supplies.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1315,7 +1298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document75]
 DocumentPath=..\..\..\lib\footprint\PBL - Regulators.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1332,7 +1315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document77]
+[Document76]
 DocumentPath=..\..\..\lib\footprint\PBL - Resistors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1349,7 +1332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document77]
 DocumentPath=..\..\..\lib\footprint\PBL - Resonators.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1366,7 +1349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document79]
+[Document78]
 DocumentPath=..\..\..\lib\footprint\PBL - SMD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1383,7 +1366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document80]
+[Document79]
 DocumentPath=..\..\..\lib\footprint\PBL - Special.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1400,7 +1383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document80]
 DocumentPath=..\..\..\lib\footprint\PBL - Switches.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1417,7 +1400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document81]
 DocumentPath=..\..\..\lib\footprint\PBL - Test Points.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1434,7 +1417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document83]
+[Document82]
 DocumentPath=..\..\..\lib\footprint\PBL - Transistors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1451,7 +1434,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document84]
+[Document83]
 DocumentPath=MCU2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1467,6 +1450,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document84]
+DocumentPath=iot_board.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RMKTTROF
 
 [Configuration1]
 Name=Sources
