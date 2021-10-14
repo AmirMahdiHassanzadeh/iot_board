@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=P2 Old Footprint=Teleconn_5pin New Footprint=HDR1X5_2.54mmp
-Added Room: Name=MC60
-Added Room: Name=MCU1
-Added Room: Name=MCU2
-Added Room: Name=MCU3
-Added Room: Name=MCU4
-Added Room: Name=Power
-Added Room: Name=W5500
-Added Room: Name=Wifi
