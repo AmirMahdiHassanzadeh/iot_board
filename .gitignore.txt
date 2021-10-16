@@ -3,6 +3,9 @@ project/History
 $GIT_DIR/project/History
 project/output_PDFs
 project/Project\Logs\for\PCB_Project*
+project/Project\Logs\for\PCB_Project
+project/Project Logs for PCB_Project
+$GIT_DIR/project/Logs\for\PCB_Project
 project/project Output*
 project/_previews
 project/debug.log
