@@ -1,7 +1,7 @@
 
 # iot_board
 
-/*
+
     ::IRAN
     by :AmirMahdiHassanzadeh
     1400/07/23   ->jalali
@@ -11,8 +11,8 @@
     instagram id:@eng.amirmahdi
     telegram id:@Amir_mehdi_attwi
     ::IRAN
-*/
 
-this board has wifi-bluethuse-gsm-spiLcd-RTC-SDcard-4Relay-BTn-LED ....
+
+this board has wifi-bluetooth -gsm-spiLcd-RTC-SDcard-4Relay-BTn-LED ....
 
 my work is funy
