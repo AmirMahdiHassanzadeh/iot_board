@@ -5665,6 +5665,8 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=3V3|NetColor=$00BE35AB
+Net2=NetName=5V0GSM|NetColor=$0000DEB0
+Net3=NetName=NetD15_2|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
