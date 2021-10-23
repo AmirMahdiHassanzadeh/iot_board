@@ -1160,7 +1160,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BFENEHIF
 
 [Document67]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\MODULE_AC2DC.PcbLib
@@ -4700,6 +4700,23 @@ DocumentUniqueId=
 
 [Document275]
 DocumentPath=..\..\..\lib\chila_bord\Altium-Library-master\AltiumPCBLIB\MECH_SPACER.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document276]
+DocumentPath=..\..\..\..\..\Altium\Altium Tutorials\التیوم حسین خادمی\GolPack\Diode.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
